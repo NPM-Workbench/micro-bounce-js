@@ -1,10 +1,10 @@
 ![banner](https://github.com/user-attachments/assets/c3da8a6e-d93b-4fb6-b102-bca62ff25c0f)
 
-# Micro-Bounce-JS
+# Micro Bounce JS
 A tiny, type-safe debounce utility for modern JavaScript and TypeScript. Lightweight. Dependency-free. Works in Node and the browser, has a very simple API surface to work with.
 
 ### 📦 Installation
-```bash
+```console
 npm install --save micro-bounce-js
 ```
 
@@ -34,3 +34,9 @@ dLogger("Hey there. How you doing?");
 // the log will output "Hey there. How you doing?"
 ```
 
+### 📘 Contributing
+Contributions, suggestions, and improvements are welcome.<br/>
+Feel free to open issues or pull requests.
+
+### ❤️ Support
+Like this project? Support it with a github star, it would mean a lot to me! Cheers and Happy Coding.
