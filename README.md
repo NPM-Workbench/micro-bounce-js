@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/c3da8a6e-d93b-4fb6-b102-bca62ff25c0f)
+![banner-2](https://github.com/user-attachments/assets/7fe0776e-656a-4e80-b20a-d80c0fae3678)
 # Micro Bounce JS
 
 🧸 A tiny, type-safe debounce utility for modern JavaScript and TypeScript. Lightweight. Dependency-free. Works in Node and the browser, has a very simple API surface to work with.
