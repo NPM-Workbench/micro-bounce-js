@@ -2,6 +2,7 @@
 ![npm](https://img.shields.io/npm/v/micro-bounce-js)
 ![downloads](https://img.shields.io/npm/dw/micro-bounce-js)
 ![license](https://img.shields.io/npm/l/micro-bounce-js)
+![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/micro-bounce-js)
 # Micro Bounce JS
 
 🧸 A tiny, type-safe debounce utility for modern JavaScript and TypeScript. Lightweight. Dependency-free. Works in Node and the browser, has a very simple API surface to work with.
