@@ -1,4 +1,4 @@
-![banner-2](https://github.com/user-attachments/assets/7fe0776e-656a-4e80-b20a-d80c0fae3678)
+![bounce-banner-2](https://github.com/user-attachments/assets/e1ba1901-9350-462d-ac44-d7ba80538a53)
 ![npm](https://img.shields.io/npm/v/micro-bounce-js)
 ![downloads](https://img.shields.io/npm/dw/micro-bounce-js)
 ![license](https://img.shields.io/npm/l/micro-bounce-js)
